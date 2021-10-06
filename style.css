@@ -1,0 +1,92 @@
+#google
+{
+    height: 80px;
+    width: 80px;
+}
+.test_image_and_result
+{
+    background-color: grey;
+    height: 60%;
+    width: 80%;
+    float: none;
+    border-radius: 10px;
+}
+#bottle
+{
+    height: 80%;
+    margin: 30px;
+}
+#lens
+{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+}
+#mobilenet
+{
+    background-color: white;
+    border-radius: 10px;
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+}
+#teddy
+{
+    height: 80%;
+    margin: 30px;
+}
+
+#star
+{
+    height: 80%;
+    margin: 30px;
+}
+#spoon
+{
+    height: 80%;
+    margin: 30px;
+}
+#scissor
+{
+    height: 80%;
+    margin: 30px;
+}
+#remote
+{
+    height: 80%;
+    margin: 30px;
+}
+#pen
+{
+    height: 80%;
+    margin: 30px;
+}
+#box
+{
+    height: 80%;
+    margin: 30px;
+}
+#flower
+{
+    height: 80%;
+    margin: 30px;
+}
+#ball
+{
+    height: 80%;
+    margin: 30px;
+}
+#heading
+{
+    font-family: 'Pacifico', cursive;
+    color: red;
+    letter-spacing: 2;
+}
+#vs
+{
+    color: red;
+}
+.mini_result
+{
+    color: white;
+}
